@@ -1,0 +1,1 @@
+Public synthetic fixture: codeberg-pr-ci
