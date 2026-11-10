@@ -1,0 +1,1 @@
+Public synthetic fixture: gitee-head-update
